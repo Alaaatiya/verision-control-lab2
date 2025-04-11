@@ -63,3 +63,5 @@ and it wont appear in git status as untracked files
 and if i accidentally committed it i use:
     git rm --cached .env  Untracks but keeps the file locally
     git commit -m "Remove secrets"
+    i did a push for annotated tag with tag name v1.7
+    
